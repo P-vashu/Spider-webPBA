@@ -1,0 +1,28 @@
+AVIATION INFRASTRUCTURE CAUSAL ANALYSIS - RESULTS
+================================================================================
+
+1. EXTREME VALUE THEORY (GPD):
+   - Shape parameter (ξ): -0.064867
+   - Scale parameter (σ): 1.129008
+
+2. QUANTILE REGRESSION:
+   - 90th percentile slope coefficient: -7.06041
+   - 10th percentile intercept coefficient: 18.97345
+
+3. PROPENSITY SCORE MATCHING:
+   - Average Treatment Effect (standardized Altitude): 0.1712
+   - Matched pairs: 9568
+
+4. KOLMOGOROV-SMIRNOV TEST:
+   - KS statistic: 0.31468
+   - KS p-value: 0.00000000
+
+5. AIRCRAFT TYPE DIVERSITY:
+   - Total unique aircraft types: 246
+   - Boeing 737-800 identifier: 75
+
+6. DBSCAN CLUSTERING:
+   - Number of distinct clusters (excluding noise): 19
+
+7. VISUALIZATION:
+   - Hexbin plot generated and saved
